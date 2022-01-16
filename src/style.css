@@ -1,0 +1,17 @@
+html {
+    margin: 0px;
+}
+
+body {
+    margin: 0px
+}
+
+#info {
+    color: 'red';
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}
