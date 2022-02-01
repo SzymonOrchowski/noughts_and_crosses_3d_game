@@ -1,2 +1,2 @@
-# Noughts and crosses 3d game
+# Noughts and crosses 3D game
 
